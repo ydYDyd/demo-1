@@ -1,7 +1,7 @@
 hello word yd-test
-<<<<<<
-yd-test< HEAD
+<<<<<<< HEAD
 master
+yd-test
 =======
 yd-test
 >>>>>>> yd-test
